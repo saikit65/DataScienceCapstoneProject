@@ -1,0 +1,3 @@
+Data
+
+I will be using the Toronto neighourhood data in wikipedia, which offer the postal code, and map to the coordinate of each neighourhood. Then by leveraging foursquare location data, I can locate the venue or attraction nearby. After extracting all the venue of each neighourhood. I will evaluate the most common (top 10 revenue) features of each district, then make use of KNN technique to cluster each neighourhood with similarity to make my recommendation to my friend.
